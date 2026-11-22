@@ -1,5 +1,5 @@
-# Привет
-Я Кирилл, изучаю Python, backend.
+# Привет 👇
+Я imperia, изучаю Python, backend.
 ## Проекты
 - Трекер заявок -- https://github.com/ImperiaPala/ticket-tracker
   -- Консольный трекер заявок на Python: классы, json, лог, меню
